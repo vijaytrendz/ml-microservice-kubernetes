@@ -1,2 +1,1 @@
-# ml-microservice-kubernetes
-This is for docker workflow
+[![CircleCI](https://circleci.com/gh/vijaytrendz/ml-microservice-kubernetes/tree/main.svg?style=svg)](https://circleci.com/gh/vijaytrendz/ml-microservice-kubernetes/tree/main)
